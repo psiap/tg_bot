@@ -1,0 +1,1 @@
+from . import r_partner
